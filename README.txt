@@ -21,6 +21,6 @@ The ESLR titles (eslrTitle class) are bolder and stand out from the rest of the 
 The first image is to the right
 The links react visually when a user hovers over them 
 
-Submit your CSS file below.
+Submit a link to your repository and upload your CSS file on Eaglenet (http://aishk.mrooms.org/mod/assign/view.php?id=38280).
 Advanced:
 You may also submit another CSS file that improves the layout even further. 
