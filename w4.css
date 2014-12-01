@@ -17,13 +17,13 @@ h2 {
 	background-color: #A9F5F2;
 }
 
-span {
+.eslrTitle {
 	font-size:20px;
 	color: #8A0829;
 	font-weight: bold;	
 }
 
-img {
+#eagleLogo {
 	float: right;
 }
 
