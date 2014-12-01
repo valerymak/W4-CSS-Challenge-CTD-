@@ -8,20 +8,27 @@
 h1 {
 	font-family: Times New Roman;
 	color: #8A0829;
+	text-decoration: underline;
 }
 
 h2 {
 	font-family: Times New Roman;
 	color: #0B0B61;
+	background-color: #A9F5F2;
 }
 
 span {
-	font-size:25px;
+	font-size:20px;
 	color: #8A0829;
 	font-weight: bold;	
 }
 
 img {
 	float: right;
+}
+
+a:hover {
+	color:#FFFFFF;
+	background-color: #0B0B61;
 }
 	
